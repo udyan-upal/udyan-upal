@@ -10,14 +10,10 @@ I'm a developer who enjoys building, learning, and turning ideas into useful sof
 - 💼 LinkedIn: [udyan-upal](https://www.linkedin.com/in/udyan-upal)
 - 𝕏 X: [@udyan_upal](https://x.com/udyan_upal)
 
-## Connect
-
-Feel free to explore my work or connect with me through the links above.
-
 <!-- CODEXBAR_METRICS:START -->
 ### 🤖 LLM Subscriptions & Usage Tracker (CodexBar)
 
-*Live telemetry & quota snapshots tracked via CodexBar (Last updated: `Aug 07, 2026 22:47 UTC`)*
+*Live telemetry & quota snapshots tracked via CodexBar (Last updated: `Aug 07, 2026 22:49 UTC`)*
 
 #### 💵 Total Spend & Token Summary
 
@@ -44,14 +40,14 @@ Feel free to explore my work or connect with me through the links above.
 
 | Provider | Plan | Window / Limit | Remaining | Resets In |
 | :--- | :--- | :--- | :--- | :--- |
-| **Claude** | `Pro` | Session | `████████░░` 🟩 **79% left** | 1h 32m |
+| **Claude** | `Pro` | Session | `████████░░` 🟩 **79% left** | 1h 30m |
 |  |  | Opus | `█████████░` 🟩 **87% left** | N/A |
 |  |  | Weekly | `███████░░░` 🟩 **71% left** | 4d 2h |
 | **Codex** | `Plus` | Session | `██████████` 🟩 **99% left** | Resets shortly |
-|  |  | Weekly | `███░░░░░░░` 🟨 **28% left** | 4h 54m |
-| **Antigravity** | `Free` | Session | `█████████░` 🟩 **93% left** | 4h 16m |
-|  |  | Weekly | `██████████` 🟩 **99% left** | 2h 43m |
-| **OpenCode Go** | `Standard` | Session | `██████████` 🟩 **98% left** | 4h 27m |
+|  |  | Weekly | `███░░░░░░░` 🟨 **28% left** | 4h 52m |
+| **Antigravity** | `Free` | Session | `█████████░` 🟩 **93% left** | 4h 15m |
+|  |  | Weekly | `██████████` 🟩 **99% left** | 2h 42m |
+| **OpenCode Go** | `Standard` | Session | `██████████` 🟩 **98% left** | 4h 25m |
 |  |  | Weekly | `████████░░` 🟩 **78% left** | 2d 1h |
 |  |  | Monthly | `█████████░` 🟩 **89% left** | 24d 12h |
 
