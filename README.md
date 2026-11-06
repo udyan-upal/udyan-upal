@@ -1,6 +1,8 @@
 # Hi, I'm Udyan Upal 👋
 
-Software Engineer with 5+ years of experience building and scaling business and infrastructure solutions end-to-end, from Node.js, TypeScript and Python APIs (Express, FastAPI, GraphQL) to PostgreSQL, MySQL, MongoDB and Redis data layers and React/Next.js frontends. I specialize in third-party API integrations and production AI features using OpenAI, Claude, RAG, vector databases (Qdrant, Weaviate), real-time voice agents and background workers, shipped with Docker, Kubernetes and CI/CD on AWS, GCP and Cloudflare. Contact me: [udyan.upal@gmail.com](mailto:udyan.upal@gmail.com)
+Software Engineer with 5+ years of experience building and scaling business and infrastructure solutions end-to-end, from Node.js, TypeScript and Python APIs (Express, FastAPI, GraphQL) to PostgreSQL, MySQL, MongoDB and Redis data layers and React/Next.js frontends. I specialize in third-party API integrations and production AI features using OpenAI, Claude, RAG, vector databases (Qdrant, Weaviate), real-time voice agents and background workers, shipped with Docker, Kubernetes and CI/CD on AWS, GCP and Cloudflare.
+
+📫 [Contact me](mailto:udyan.upal@gmail.com)
 
 ## Projects
 
