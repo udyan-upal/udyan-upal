@@ -6,7 +6,7 @@ I am a Software Engineer with 4+ years of experience building and scaling SaaS p
 
 -  Interested in software development and technology
 -  Always learning and improving
--  Website: [udyanupal.site](https://udyanupal.site)
+-  Website: [upal.dev](https://upal.dev)
 -  LinkedIn: [udyan-upal](https://www.linkedin.com/in/udyan-upal)
 -  X: [@udyan_upal](https://x.com/udyan_upal)
 -  Email: [udyan.upal@gmail.com](mailto:udyan.upal@gmail.com)
