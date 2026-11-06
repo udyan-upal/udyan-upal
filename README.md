@@ -8,7 +8,9 @@ Software Engineer with 5+ years of experience building and scaling business and 
 
 - **[Myndy.ai](https://myndy.ai)**: A business phone number with a 24/7 AI voice receptionist. Real-time voice pipeline over LiveKit with Google Cloud STT/TTS, VAD and turn detection for sub-second, interruptible calls; a multi-tenant agent builder with tool calling for calendar booking, CRM updates and human handoff; RAG over Qdrant from crawled websites and documents; and a self-learning playbook that turns unanswered questions into approved answers. Built with Node.js/TypeScript, PostgreSQL, Next.js and OpenAI/Claude.
 
-### 🛠️ Open source: built for myself
+### 🛠️ Open source
+
+*Built to solve my own problem, and I hope it helps others too.*
 
 - **[Readr](https://github.com/udyan-upal/readr)**: A distraction-free reader with neural read-aloud and word-by-word highlighting, as a Chrome MV3 extension (Readability extraction, notes, AI tl;dr and Q&A) and a PDF web app. TTS word boundaries are aligned to the rendered text for live highlighting, while progressive chunking, a 4-clip lookahead buffer and background retry with exponential backoff keep playback gapless. Next.js 15 on Cloudflare Workers with D1, R2 and pdf.js. MIT licensed.
 
