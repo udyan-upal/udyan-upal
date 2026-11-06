@@ -1,6 +1,6 @@
 # Hi, I'm Udyan Upal 👋
 
-Software Engineer with 5+ years of experience building and scaling business and infrastructure solutions end-to-end, from Node.js, TypeScript and Python APIs (Express, FastAPI, GraphQL) to PostgreSQL, MySQL, MongoDB and Redis data layers and React/Next.js frontends. I specialize in third-party API integrations and production AI features using OpenAI, Claude, RAG, vector databases (Qdrant, Weaviate), real-time voice agents and background workers, shipped with Docker, Kubernetes and CI/CD on AWS, GCP and Cloudflare.
+Software Engineer with 5+ years of experience building and scaling business and infrastructure solutions end-to-end, from Node.js, TypeScript and Python APIs (Express, FastAPI, GraphQL) to PostgreSQL, MySQL, MongoDB and Redis data layers and React/Next.js frontends. I specialize in third-party API integrations and production AI features using OpenAI, Claude, RAG, vector databases (Qdrant, Weaviate), real-time voice agents and background workers, shipped with Docker, Kubernetes and CI/CD on AWS, GCP and Cloudflare. Contact me: [udyan.upal@gmail.com](mailto:udyan.upal@gmail.com)
 
 ## Projects
 
@@ -28,12 +28,3 @@ Software Engineer with 5+ years of experience building and scaling business and 
 | **Databases** | <img src="https://cdn.simpleicons.org/postgresql" width="16" height="16" alt="" /> PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/mysql" width="16" height="16" alt="" /> MySQL &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/mongodb" width="16" height="16" alt="" /> MongoDB &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/redis" width="16" height="16" alt="" /> Redis &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/qdrant" width="16" height="16" alt="" /> Qdrant &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?sz=64&domain=weaviate.io" width="16" height="16" alt="" /> Weaviate |
 | **Integrations** | REST / Webhook APIs &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/openid/000000/ffffff" width="16" height="16" alt="" /> OAuth 2.0 &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/livekit/000000/ffffff" width="16" height="16" alt="" /> LiveKit &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/googlecloud" width="16" height="16" alt="" /> Google STT/TTS |
 | **Cloud / DevOps** | <img src="https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com" width="16" height="16" alt="" /> AWS &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/googlecloud" width="16" height="16" alt="" /> GCP &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare" width="16" height="16" alt="" /> Cloudflare &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/docker" width="16" height="16" alt="" /> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/kubernetes" width="16" height="16" alt="" /> Kubernetes &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/jenkins" width="16" height="16" alt="" /> Jenkins &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="16" height="16" alt="" /> CI/CD &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/git" width="16" height="16" alt="" /> Git / GitHub &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/grafana" width="16" height="16" alt="" /> Grafana &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/elasticstack" width="16" height="16" alt="" /> ELK Stack |
-
-## About me
-
--  Interested in software development and technology
--  Always learning and improving
--  Website: [upal.dev](https://upal.dev)
--  LinkedIn: [udyan-upal](https://www.linkedin.com/in/udyan-upal)
--  X: [@udyan_upal](https://x.com/udyan_upal)
--  Email: [udyan.upal@gmail.com](mailto:udyan.upal@gmail.com)
