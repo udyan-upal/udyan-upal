@@ -7,6 +7,7 @@ Software Engineer with 5+ years of experience building and scaling business and 
 ### 💼 Work
 
 - **[Myndy.ai](https://myndy.ai)**: A business phone number with a 24/7 AI voice receptionist. Real-time voice pipeline over LiveKit with Google Cloud STT/TTS, VAD and turn detection for sub-second, interruptible calls; a multi-tenant agent builder with tool calling for calendar booking, CRM updates and human handoff; RAG over Qdrant from crawled websites and documents; and a self-learning playbook that turns unanswered questions into approved answers. Built with Node.js/TypeScript, PostgreSQL, Next.js and OpenAI/Claude.
+- **[QueryDeck](https://querydeck.si)**: Search intelligence for SEO agencies and growth teams. It connects Google Search Console via OAuth, preserves performance history over time, and turns page and query data into opportunities (CTR gaps, ranking declines, striking-distance queries, cannibalisation, content decay) ranked by impact, confidence and effort, each linked to its evidence. Includes period comparisons, annotations, exports and multi-property workspaces.
 
 ### 🛠️ Open source
 
