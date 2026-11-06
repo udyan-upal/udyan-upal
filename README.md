@@ -6,24 +6,11 @@ I am a Software Engineer with 4+ years of experience building and scaling SaaS p
 
 ### 💼 Work
 
-**[Myndy.ai](https://myndy.ai)**: a business phone number with a 24/7 AI voice receptionist that answers calls, books appointments, updates the CRM, and hands off to a human when needed.
-
-- **Real-time voice pipeline:** telephony (local/toll-free provisioning, number porting) → LiveKit → Google Cloud STT/TTS with VAD and turn detection, for sub-second, interruptible conversations
-- **Multi-tenant agent builder:** per-number agent routing; tool/function calling for calendar booking, CRM updates, and human handoff with the full context attached
-- **Knowledge-grounded answers (RAG):** website crawling plus PDF/doc ingestion → chunking, embeddings, and re-ranking over Qdrant, so every answer traces back to an editable source
-- **Self-learning playbook:** flags questions the agent couldn't answer (with audio); owner-approved answers feed back into retrieval and prompts
-- **Unified inbox:** calls, SMS, and voicemail threaded per contact, with AI ↔ human takeover mid-conversation, recordings, transcripts, and summaries with intent and next action
-- **Stack:** Node.js/TypeScript, PostgreSQL, React/Next.js, OpenAI/Claude, background workers for ingestion and vector sync
+- **[Myndy.ai](https://myndy.ai)**: A business phone number with a 24/7 AI voice receptionist. Real-time voice pipeline over LiveKit with Google Cloud STT/TTS, VAD and turn detection for sub-second, interruptible calls; a multi-tenant agent builder with tool calling for calendar booking, CRM updates and human handoff; RAG over Qdrant from crawled websites and documents; and a self-learning playbook that turns unanswered questions into approved answers. Built with Node.js/TypeScript, PostgreSQL, Next.js and OpenAI/Claude.
 
 ### 🛠️ Open source: built for myself
 
-**[Readr](https://github.com/udyan-upal/readr)**: a distraction-free reader with natural read-aloud and word-by-word highlighting, for web articles (Chrome extension) and PDFs (web app). MIT licensed.
-
-- **Chrome MV3 extension:** Mozilla Readability extraction → clean reader view with highlights, notes, a tl;dr, and Q&A over the article (OpenRouter, NVIDIA fallback)
-- **Word-synced neural TTS:** word-boundary events aligned to rendered text with a two-pointer alignment that handles punctuation, contractions, and hyphenation drift
-- **Gapless streaming:** progressive chunking (100 → 250 → 400 chars), a 4-clip lookahead buffer with bounded concurrency, and background retry with exponential backoff, so playback doesn't stall even on Cloudflare's 10 ms-CPU free tier
-- **Serverless backend:** Next.js 15 on Cloudflare Workers (OpenNext), D1 for notes and sessions, R2 for PDFs, pdf.js for rendering and text extraction
-- **Tooling:** pnpm monorepo, TypeScript, Bun, Biome, Conventional Commits
+- **[Readr](https://github.com/udyan-upal/readr)**: A distraction-free reader with neural read-aloud and word-by-word highlighting, as a Chrome MV3 extension (Readability extraction, notes, AI tl;dr and Q&A) and a PDF web app. TTS word boundaries are aligned to the rendered text for live highlighting, while progressive chunking, a 4-clip lookahead buffer and background retry with exponential backoff keep playback gapless. Next.js 15 on Cloudflare Workers with D1, R2 and pdf.js. MIT licensed.
 
 ## Skills
 
